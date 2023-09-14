@@ -68,7 +68,7 @@ echo build.bat [-x86] [-x64] [--doc] [-h] [--test-marker] [--pack] [-r]
 echo.
 echo    -x86                Build x86 installers
 echo    -x64                Build x64 installers
-echo    --doc               Build CHM documentation
+echo    --doc               Build documentation
 echo    --test-marker       Build with test markers
 echo    --no-test-marker    Build without test markers (default)
 echo    --pack              Embed core MSIs into installer
